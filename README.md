@@ -22,7 +22,6 @@
 🧩 Exploring everything from **low-level C** to **containerized microservices**  
 🐧 Dev environment: **Arch Linux + Vim**  
 ⚙️ I love **tinkering with infrastructure** and building efficient systems (dangerous toys)
-🌐 Check out my projects and blog at [**jaysalway.com**](https://jaysalway.com)
 
 ---
 
