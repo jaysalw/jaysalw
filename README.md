@@ -1,4 +1,4 @@
-<!-- 💫 Jay Salway | ydupc | README.md -->
+<!-- 💫 Jay Salway | README.md -->
 <!-- Header -->
 <h1 align="center">
   <img
@@ -66,12 +66,12 @@ Here’s what I’m working on (to be filled in):
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ydupc&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ydupc&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaysalw&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaysalw&show_icons=true&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydupc&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysalw&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -81,6 +81,6 @@ Here’s what I’m working on (to be filled in):
 <p align="center">
   <a href="https://jaysalway.com"><img src="https://img.shields.io/badge/-Website-0FA36B?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
   <a href="mailto:jay@48bit.net"><img src="https://img.shields.io/badge/-jay@48bit.net-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ydupc"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/jaysalw"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
