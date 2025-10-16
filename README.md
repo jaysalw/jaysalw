@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:2512956@leedstrinity.ac.uk"><img src="https://img.shields.io/badge/Uni%20Email-2512956@leedstrinity.ac.uk-0078D4?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="mailto:jay@48bit.net"><img src="https://img.shields.io/badge/Personal%20Email-jay@48bit.net-8A2BE2?style=flat&logo=minutemailer&logoColor=white"/></a>
-  <a href="https://jaysalway.com"><img src="https://img.shields.io/badge/🌐-Website-0FA36B?style=flat&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://jay.fish"><img src="https://img.shields.io/badge/🌐-Website-0FA36B?style=flat&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,9 +79,7 @@ Here’s what I’m working on (to be filled in):
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://jaysalway.com"><img src="https://img.shields.io/badge/-Website-0FA36B?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+  <a href="https://jay.fish"><img src="https://img.shields.io/badge/-Website-0FA36B?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
   <a href="mailto:jay@48bit.net"><img src="https://img.shields.io/badge/-jay@48bit.net-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/jaysalw"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-I am working on a new website for myself! I have purchsed the domain jay.fish!
