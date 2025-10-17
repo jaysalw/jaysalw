@@ -1,4 +1,4 @@
-<!-- 💫 Jay Salway | README.md -->
+<!-- 💫 Jay Salway -->
 <!-- Header -->
 <h1 align="center">
   <img
