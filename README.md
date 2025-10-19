@@ -2,7 +2,7 @@
 <!-- Header -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Jay+Salway;Dangerous+Toys;Weaponised+Autism;jaysalway.com;%3E%3A)"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Jay+Salway;Weaponised+Autism;jaysalway.com;%3E%3A)"
     alt="Jay Salway Typing Header"
   />
 </h1>
