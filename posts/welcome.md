@@ -6,6 +6,4 @@ summary: Welcome to my blog.
 
 This post will be pretty short, however here's the gist. I'll publish things I find interesting here!
 
-You can find all my posts in MarkDown form in my repo @ https://github.com/jaysalw/jaysalw.
-
-You will be able to find all sorts of "random stufF", etc here
+This website is custom-made using **React** and **Node.js** - yes, I finally gave in (though just this once!). I wanted to play around with the technology of sorts and found it mildly interesting (obviously, otherwise we wouldn't be here right now).
