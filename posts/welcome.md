@@ -15,3 +15,14 @@ Wow! That's pretty short hm? ``jay.fish`` - an amazing find right? I spent aroun
 I am using Spotify's Web API to show what I am currently playing, and then last.fm to fetch what I have previously played and how many times I have played said song.
 
 ![Music Player](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2025/music-status.png)
+
+### GitHub Activity Tracking & Stats
+Since I'm petty, I added my github activity and statistics on the home page. This simply uses a GitHub fine-grained personal access token stored in an ENV with read-only flags to view my profile and view my public repos.
+
+Cool Right?
+
+### Does the website store anything in a database?
+Nope, I was lazy - or rather wanted GitHub to foot the bill 😈 mwhahahaha!
+
+Everything is placed within my profile repository on GitHub: https://github.com/jaysalw/jaysalw
+Quite fiting right?
