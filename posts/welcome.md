@@ -1,8 +1,8 @@
 ---
-title: Welcome
+title: Testing
 date: 2025-10-20
-tags: [idk]
-summary: Welcome to my blog
+tags: [test]
+summary: This is a test
 ---
 
 This post will be pretty short, however here's the gist. I'll publish things I find interesting here!
