@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: 2025-10-20
-summary: Welcome to my blog.
+summary: How the site was made, how the blog works, and welcome!
 ---
 
 This post will be pretty short, however here's the gist. I'll publish things I find interesting here!
@@ -28,3 +28,8 @@ Everything is placed within my profile repository on GitHub: https://github.com/
 Quite fiting right?
 
 Everything is placed within a MarkDown file (well, each post that is), and I built my own custom renderer too! It caches the current pages for up to 2 hours, then re-renders them. This means that I do not have to store too much data actively on my server's drive and instead place it in memory - which I have more than enough of.
+
+### The Roadmap in a nutshell.
+- Projects page (updated from a json file within this repo, duh)
+- Homelab page with live stats like Network Inboud/Outbound, CPU, RAM, etc usage.
+I do plan to add more than just these two, but right now I am stuck for ideas sadly.
