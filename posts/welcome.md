@@ -26,3 +26,5 @@ Nope, I was lazy - or rather wanted GitHub to foot the bill 😈 mwhahahaha!
 
 Everything is placed within my profile repository on GitHub: https://github.com/jaysalw/jaysalw
 Quite fiting right?
+
+Everything is placed within a MarkDown file (well, each post that is), and I built my own custom renderer too! It caches the current pages for up to 2 hours, then re-renders them. This means that I do not have to store too much data actively on my server's drive and instead place it in memory - which I have more than enough of.
