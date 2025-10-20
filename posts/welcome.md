@@ -11,6 +11,8 @@ This website is custom-made using **React** and **Node.js** - yes, I finally gav
 ### The domain name
 Wow! That's pretty short hm? `jay.fish` - an amazing find right? I spent around 3 hours searching for a decent domain name under the premium price point of £40 or more. For example, one candidate was `jay.zip` which was £196/year. Bit steep for a personal website, right?
 
+Though of course - I would still **love to get jay.zip** but sadly I am currently super duper broke.
+
 ### Spotify & last.fm connection
 I am using Spotify's Web API to show what I am currently playing, and then last.fm to fetch what I have previously played and how many times I have played said song.
 
