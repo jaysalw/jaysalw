@@ -14,4 +14,4 @@ Wow! That's pretty short hm? ``jay.fish`` - an amazing find right? I spent aroun
 ### Spotify & last.fm connection
 I am using Spotify's Web API to show what I am currently playing, and then last.fm to fetch what I have previously played and how many times I have played said song.
 
-[Music Player](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2025/music-status.png)
+![Music Player](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2025/music-status.png)
