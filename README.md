@@ -17,7 +17,8 @@
 
 ### 🧠 About Me
 
-🎓 **Computer Science student** @ *Leeds Trinity University*  
+🤓 **Certified Nerd**
+🎓 **Computer Science Student** @ *Leeds Trinity University*  
 💡 Passionate about **software**, **systems**, and **automation**  
 🧩 Exploring everything from **low-level C** to **containerized microservices**  
 🐧 Dev environment: **Arch Linux + Vim**  
