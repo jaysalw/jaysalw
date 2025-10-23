@@ -15,3 +15,5 @@ The site fetches the projects every 30 seconds and saves to memory as a cache. T
 The above image shows the current version of the Projects page. I thought I would want "pinned" or rather, featured project to keep projects I am currently working on at the top of the list. I also added the top 3 featured projects and the 3 latest blog posts to the home page too.
 
 No clue what I will add next, but I'm sure it will be fun to add (otherwise I wont do it!)
+
+Of course I will continue to improve my site since I'm not a weirdo lmao. That is, if I have enough time on my hands :)
