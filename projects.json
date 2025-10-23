@@ -1,0 +1,11 @@
+[
+  {
+    "id": "proj-1",
+    "title": "Personal Website",
+    "short": "About this website showing my projects, blog and other cool things.",
+    "description": "Description or smth",
+    "images": [],
+    "link": "https://jay.fish",
+    "featured": true
+  }
+]
