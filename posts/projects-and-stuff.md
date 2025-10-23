@@ -10,4 +10,4 @@ Simple right?
 
 The site fetches the projects every 30 seconds and saves to memory as a cache. This does not use GitHub's API (like the Activity Heatmap does). Instead it requests the raw file and loads that to memory. Simple, yet effective.
 
-[Projects Page Image](https://github.com/jaysalw/jaysalw/blob/main/blog-assets/2025/projects-page.png)
+![Projects Page Image](https://github.com/jaysalw/jaysalw/blob/main/blog-assets/2025/projects-page.png)
