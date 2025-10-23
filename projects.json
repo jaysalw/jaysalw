@@ -20,5 +20,16 @@
     ],
     "link": "https://csref.dev",
     "featured": true
+  },
+  {
+    "id": "proj-3",
+    "title": "forminator.gg",
+    "short": "Forms that don't feel like homework.",
+    "description": "My discord bot which enables servers to use and manage collecting data for staff, or for member feedback easier, with load of stats and analytics.",
+    "images": [
+      "https://github.com/jaysalw/jaysalw/blob/main/projects-assets/forminator-1.png"
+    ],
+    "link": "https://csref.dev",
+    "featured": true
   }
 ]
