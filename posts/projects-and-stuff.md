@@ -11,3 +11,5 @@ Simple right?
 The site fetches the projects every 30 seconds and saves to memory as a cache. This does not use GitHub's API (like the Activity Heatmap does). Instead it requests the raw file and loads that to memory. Simple, yet effective.
 
 ![Projects Page Image](https://github.com/jaysalw/jaysalw/blob/main/blog-assets/2025/projects-page.png)
+
+The above image shows the current version of the Projects page. I thought I would want "pinned" or rather, featured project to keep projects I am currently working on at the top of the list. I also added the top 3 featured projects and the 3 latest blog posts to the home page too.
