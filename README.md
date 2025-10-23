@@ -55,7 +55,7 @@
 💾 *This is where the magic happens.*  
 I run a **self-hosted home lab** for experimentation, learning, and automation.
 
-Here’s what I’m working on (to be filled in):
+Here’s what I’m working on:
 
 - 🖥️ **Hardware:** secret secret! - Except from my Raspberry Pi Cluster & 42u server rack by my bed!
 - 🐧 **OS & Hypervisor:** Arch Linux, Debian 13, Raspbian
@@ -79,7 +79,7 @@ Here’s what I’m working on (to be filled in):
 
 ### 🌐 Connect with Me
 
-I'm on discord ``@ydupc``
+I'm on discord ``@ydupc`` :3
 
 <p align="center">
   <a href="https://jay.fish"><img src="https://img.shields.io/badge/-Website-0FA36B?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
