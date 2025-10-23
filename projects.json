@@ -7,7 +7,6 @@
     "images": [
       "https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/projects-assets/personal-website.png"
     ],
-    "link": "https://jay.fish",
     "featured": true
   },
   {
@@ -16,9 +15,10 @@
     "short": "A collection of Lecture notes, etc from my BSc (Hons) Degree.",
     "description": "A collection of Lecture notes, etc from my BSc (Hons) Degree, and other useful information and guides (still being made!)",
     "images": [
-      "https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/projects-assets/personal-website.png"
+      "https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/projects-assets/csref-1.png",
+      "https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/projects-assets/csref-2.png"
     ],
-    "link": "https://jay.fish",
+    "link": "https://csref.dev",
     "featured": true
   }
 ]
