@@ -79,8 +79,6 @@ Here’s what I’m working on:
 
 ### 🌐 Connect with Me
 
-I'm on discord ``@ydupc`` :3
-
 <p align="center">
   <a href="https://jay.fish"><img src="https://img.shields.io/badge/-Website-0FA36B?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
   <a href="mailto:jay@48bit.net"><img src="https://img.shields.io/badge/-jay@48bit.net-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
