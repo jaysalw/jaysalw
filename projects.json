@@ -4,7 +4,9 @@
     "title": "Personal Website",
     "short": "About this website showing my projects, blog and other cool things.",
     "description": "Description or smth",
-    "images": [],
+    "images": [
+      "/images/projects/personal-website.png"
+    ],
     "link": "https://jay.fish",
     "featured": true
   }
