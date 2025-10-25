@@ -14,6 +14,7 @@ It comes with a base of 32TB (8*4TB), where the price would overall be cheaper t
 Fun right? Well, I think so.
 
 **Price before shipping** was £115.47
+
 **Price after shipping** was £125.81
 
 What a deal. Quite happy that I managed to **yoink** this!
