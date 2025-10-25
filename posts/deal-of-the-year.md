@@ -1,6 +1,6 @@
 ---
 title: Deal of the year!
-date: 2025-10-23
+date: 2025-10-25
 summary: I have found a wonderful deal and what a great addition to my homelab it shall be!
 tags: homelab
 ---
