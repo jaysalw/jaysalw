@@ -10,3 +10,10 @@ While scrolling through the list of servers being sold in my local area, I came 
 It comes with a base of 32TB (8*4TB), where the price would overall be cheaper than buying the disks elsewhere as well. Which - of course - is a wonderful deal. Shipping of around £10.50 approx. was fair as it weighs around 25-30kg when specs are at full.
 
 ![Image of the server](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2025/25th-oct-2025.jpg)
+
+Fun right? Well, I think so.
+
+**Price before shipping** was £115.47
+**Price after shipping** was £125.81
+
+What a deal. Quite happy that I managed to **yoink** this!
