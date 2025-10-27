@@ -55,6 +55,8 @@
 💾 *This is where the magic happens.*  
 I run a **self-hosted home lab** for experimentation, learning, and automation.
 
+**You're able to see more about my homelab on my website at https://jay.fish/homelab**
+
 Here’s what I’m working on:
 
 - 🖥️ **Hardware:** secret secret! - Except from my Raspberry Pi Cluster & 42u server rack by my bed!
@@ -67,8 +69,7 @@ Here’s what I’m working on:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaysalw&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jaysalw&show_icons=true&theme=radical&hide_border=true" height="165" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysalw&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </p>
 
 <p align="center">
