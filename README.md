@@ -63,6 +63,7 @@ Here’s what I’m working on:
 - 🐧 **OS & Hypervisor:** Arch Linux, Debian 13, Raspbian
 - ☁️ **Services Hosted:** Pterodacyl for discord bots and static sites (excluding https://forminator.gg), Trillium Notes, PiKVM, etc
 - 🔐 **Focus:** _Networking, security hardening, and efficient container management and having fun!!_
+- 💾 **Dual-Primary Database Backup Model/s** (because why not!)
 
 ---
 
