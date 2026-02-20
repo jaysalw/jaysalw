@@ -77,3 +77,15 @@ Simply add your music to the selected mount point (folder) which will show up in
 ![My Small CD Collection](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2026/my_cds_feb.jpg)
 
 I know I don't have tons of CDs in the image above (many of them are stacked on my table), however I have ripped each one in WAV or FLAC (the best formats for music) and plopped them onto Jellyfin.
+
+![My Jellyfin Setup](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2026/jellyfin_preview.jpg)
+
+Here is a picture of my jellyfin server. I use **finamp** (https://github.com/UnicornsOnLSD/finamp) on my phone, and I use a custom theme on the webclient. I use the client **feishin** on my desktop (looks similar to spotify) (https://github.com/jeffvli/feishin)
+
+There are loads of clients for Jellyfin so take your pick!
+
+If you can't find a song, or a track in CD format try looking on https://discogs.com, ebay or head to Bandcamp and pay for a digital download of that track.
+
+Still no luck? Try piracy! (shhhh 🦜)
+
+Have a wonderful time listening to music!
