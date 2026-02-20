@@ -7,17 +7,17 @@ tags: music
 
 ![Banner](https://raw.githubusercontent.com/jaysalw/jaysalw/refs/heads/main/blog-assets/2026/down_with_spotify.png)
 
-Earlier today, along with creating the **music page** on my website (and a styling update!!) I decided to add the above banned showcasing how terrible streaming services are. Bit graphic with the dripping blood maybe? Oh well...
+Earlier today, along with creating the **music page** on my website (and a styling update!!) I decided to add the above banner showcasing how terrible streaming services are. Bit graphic with the dripping blood maybe? Oh well...
 
 For years now I have preferred self-hosting my media collection however I could. For example, my music server is currently hosted on a Raspberry Pi 5, though you can use whatever you like with a media server!
 
-Some media servers are more lightweight than others, however I personal use Jellyfin.
+Some media servers are more lightweight than others, however I personally use Jellyfin.
 
 ## So, what's the issue with streaming?
 
 **You don't own your media**. If the platform decides to remove it, censor it, or if your local authority doesn't like your music tastes (looking at you trump) then it has effectively gone forever (almost).
 
-Issues with Streaming Services such as licenes expiring so that they can't play that music anymore, or content gets replaced. AI slop covering up the decent music and real artists too.
+Issues with Streaming Services such licenses expiring so that they can't play that music anymore, or content gets replaced. AI slop covering up the decent music and real artists too.
 
 Albums vanish overnight, tracks get silently swapped - your library isn't really yours, only rented.
 
@@ -45,6 +45,8 @@ I am running my media server on a Raspberry Pi 5 with 16GB of ram, along with 51
 The project as a whole is overall cheaper than using spotify for one year alone (at £11.99/mo).
 
 Oh and, if you're planning on ripping CDs, make sure you have a CD player which can connect to your computer.
+
+***FYI***, A Raspberry Pi 5 with 16gb of ram will cost around £1-1.50 in electricity per month at FULL LOAD (which you shouldn't reach if you limit to a few users - around 20?).
 
 ### Installing Jellyfin
 
@@ -88,4 +90,14 @@ If you can't find a song, or a track in CD format try looking on https://discogs
 
 Still no luck? Try piracy! (shhhh 🦜)
 
-Have a wonderful time listening to music!
+On a day-to-day basis, I personally enjoy **no advertisements** from companies I couldn't care less about, and I support the artists which I enjoy buy directly purchasing content rather than listening to them from crappy streaming services.
+
+Allthough Jellyfin behaves like any commercial streaming service, you are in control and **you** decide what goes on it. Not only that **you own your music**!
+
+It doesn't matter if Jellyfin disappears, if an API shuts down or if some company decides to remove a bunch of albums or access. 
+
+My music is mine. forever.
+
+Streaming services may have solved convinence, but at the cost of ownership and what it should actually feel like to choose, select and listen to music. Listening to music should NOT be an endeless activity, but something to enjoy.
+
+Self-hosting solves both issues of portability, and ownership of music. No more subscriptions, no more media going poof, no restrictions.
