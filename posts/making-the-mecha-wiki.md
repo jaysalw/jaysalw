@@ -27,3 +27,5 @@ I have plans for other parts of the site such as an organised Extensions page fo
 Same for apps, and any optimised apps (where each app would have documentation on how to install, modify and enjoy).
 
 Hopefully this goes somewhere! Who wouldn't want to contribute to their favourite community <3
+
+If I have any updates on this I'll be sure to post them on my blog :), don't forget to have a look at the mecha comet: https://mecha.so
